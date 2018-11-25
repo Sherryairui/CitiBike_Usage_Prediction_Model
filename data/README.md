@@ -6,6 +6,6 @@ the weather data is 2015? (I need to double check) https://www.kaggle.com/meiner
 
 the LEHD data (from our prof) is which year? 
 
-
-
 traffic speed data (201504-201512) (too big, I need to clean it before upload,T_T) http://data.beta.nyc/zh_CN/dataset/nyc-real-time-traffic-speed-data-feed-archived
+
+subway https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49
