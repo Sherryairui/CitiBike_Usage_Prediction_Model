@@ -1,11 +1,12 @@
 ## 1
 
-画出work and resident 分别的热度分布图，把6类citibike站点用6种颜色标上。(2 pictures)
+1.1 Draw the work and residential heatmap separately.   
+1.2 Show citibike station distribution and label them in 6 different colors.  
 
 ## 2
 
-画出subway station和citibike站点，用2种颜色表示(2 picture)
+Draw the subway station and citibike station map, using 2 colors and 2 shapes for a better distinction. 
 
 ## 3
 
-各个citibike station的start/end/empty的24小时变化(24*3/12*3)
+Prepare for GIF image that show the start/end/empty status change within a 24 hr period.  24*3 maps... (OMG
